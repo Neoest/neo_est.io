@@ -3,6 +3,8 @@
 </head>
 ```markdown
 ## 水水
+<embed type="application/x-shockwave-flash" src="http://cdn.abowman.com/widgets/hamster/hamster.swf" width="260" height="210" id="flashID" name="flashID" bgcolor="#FFFFFF" quality="high" flashvars="up_backgroundColor=FFFFFF" wmode="opaque" allowscriptaccess="always">
+
 You can use the [editor on GitHub](https://github.com/Neoest/neo_est.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 ```
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
